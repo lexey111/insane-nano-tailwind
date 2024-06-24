@@ -1,10 +1,10 @@
 # Insane:nanoCoreTailwind, an old-fashioned modern app builder
 
-Todo: add Medium link
+[Medium link](https://lexeykoshkin.medium.com/building-a-builder-the-core-157b9b22d6d8)
 
 [Live Demo](https://lexey111.github.io/insane-nano-tailwind/)
 
-In short: a builder for HTML+CSS+JS pages not based on a framework. Advanced version, with linting, Typescript and SASS.
+In short: a builder for HTML+CSS+JS pages not based on a framework. Advanced version with Tailwind.
 
 ## Installation
 
